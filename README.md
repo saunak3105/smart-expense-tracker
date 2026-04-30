@@ -8,3 +8,7 @@
 - Python
 - Django
 - SQLite (dev)
+
+## Superuser Cred'
+- Login : saunakarch
+- pass : Unesco31
